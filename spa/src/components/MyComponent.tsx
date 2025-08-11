@@ -11,4 +11,3 @@ export const MyComponent = () => {
     </div>
   );
 };
-z;
